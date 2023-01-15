@@ -1,6 +1,6 @@
 <?php
 
 //SITE GLOBAL CONFIGURATION
-$email = "yourmail@here.com";   //<-- Your email
+$email = "20654803@prepaenlinea-sep.edu.mx";   //<-- Your email
 
 ?>
